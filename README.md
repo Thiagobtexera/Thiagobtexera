@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **Thiagobtexera/Thiagobtexera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/seu-usuário-aqui/Thiagobtexera/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div style="display: inline_block"><br>

@@ -76,12 +76,26 @@ Gosto de resolver problemas reais do dia a dia operacional com automação e fer
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thiagobtexera&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F46800&icon_color=CC0000"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobtexera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F46800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagobtexera&theme=radical&hide_border=true&background=0D1117&ring=F46800&fire=CC0000&currStreakLabel=F46800" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thiagobtexera&theme=radical&no-frame=true&margin-w=10&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiagobtexera&theme=react-dark&bg_color=0D1117&color=F46800&line=CC0000&point=FFFFFF&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiagobtexera/Thiagobtexera/output/snake.svg" />
 </p>
 
 <br>
